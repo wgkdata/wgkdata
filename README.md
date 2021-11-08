@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img src="" width="200px"/>
+</p>
+
+<h1> Hi there 👋</h1>
+
+![](https://img.shields.io/badge/OS-Fedora_35-informational?style=flat&logo=fedora&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
 
 <!--
 **wgkdata/wgkdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
