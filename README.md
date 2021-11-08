@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" width=""/>
+  <img src="https://raw.githubusercontent.com/wgkdata/wgkdata/master/assets/banner.gif">
 </p>
 
 <h1> Hello y'all! </h1>
@@ -35,4 +35,4 @@ I also work with **Python** and love scripting, consuming APIs and building simp
 
 <h1>How/where to reach me</h1>
 
-Feel free to connect with me on [<img src="./assets/linkedin.svg" width="12px">](https://www.linkedin.com/in/luanptta/) or to send something at [<img src="./assets/gmail.svg" width="12px">](mailto:luan.lps01@gmail.com)
+Feel free to connect with me on [<img src="https://raw.githubusercontent.com/wgkdata/wgkdata/master/assets/social/linkedin.svg" width="16px">](https://www.linkedin.com/in/luanptta/) or to send something at [<img src="https://raw.githubusercontent.com/wgkdata/wgkdata/master/assets/social/gmail.svg" width="16px">](mailto:luan.lps01@gmail.com)
