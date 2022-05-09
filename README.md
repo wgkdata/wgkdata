@@ -30,7 +30,7 @@ I also work with **Python** and love scripting, consuming APIs and building simp
 
 - 📊 I started working with **Data** inside of a *Revenue Operations* team
 - 🐯 I love cats (including the big ones) and I have a kitten named Yalung;
-- 🤝 With that RevOps team, I learned that getting closer business side and the client needs is amazing. I always consider and look for that, even with my function being mostly technical;
+- 🤝 With that RevOps team, I learned that getting closer to the business side and the client needs is amazing. I always consider and look for that, even with my function being mostly technical;
 - 🔒 When I was 14, I was passionate about hacking and InfoSec;
 - 🥊 I'm also passionate about Parkour and martial arts. My last one was **Muay Thai**.
 
