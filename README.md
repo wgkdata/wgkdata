@@ -4,10 +4,10 @@
 
 <h1> Hello y'all! </h1>
 
-I'm a 19 years old **Data Architect** based in Brazil 🇧🇷 who loves working with data pipelines, backend and logical 💡 challenges! I am also pursuing my bachelor's degree majoring in ***Software Engineering*** and willing to immigrate to Canada 🇨🇦.
+I'm a 19 years old **Data Engineer** based in Brazil 🇧🇷 who loves working with data pipelines, backend and logical 💡 challenges! I am also pursuing my bachelor's degree majoring in ***Software Engineering***.
 
 [![Linkedin Badge](https://img.shields.io/badge/-luanptta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanptta/)](https://www.linkedin.com/in/luanptta/)
-[![Instagram Badge](https://img.shields.io/badge/-@wangkaighost-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/wangkaighost/)](https://www.instagram.com/wangkaighost/)
+[![Instagram Badge](https://img.shields.io/badge/-@bonsoirlian-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/bonsoirlian/)](https://www.instagram.com/bonsoirlian/)
 [![Gmail Badge](https://img.shields.io/badge/-luan.lps01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luan.lps01@gmail.com)](mailto:luan.lps01@gmail.com)
 
 <h1> About my main tech stack </h1>
@@ -21,15 +21,16 @@ I'm a 19 years old **Data Architect** based in Brazil 🇧🇷 who loves working
 
 Talking about cloud, I started working with data using **Google Cloud Platform**. Considering this, I have experience with some tools such as Google BigQuery and Compute Engine. At the moment, I am using and learning more and more about **Amazon Web Services**, and I already can perform with some tools: **AWS Lambda**, **Step Functions**, **DataBrew** and others. 
 
-I also work with **Python** and love scripting, consuming APIs and building simple & cool integrations/ETLs, such as [ZDTL Integration](https://github.com/wgkdata/zdtl-integration).
+I also work with **Python** and love scripting, consuming APIs and building simple & cool integrations/ETLs, such as:
+
+- [ZDTL Integration](https://github.com/wgkdata/zdtl-integration) - Simple integration between Trello and Zendesk.
+- [Questions API](https://github.com/wgkdata/questions-api) - An AWS based API that retrieves self-knowledge questions built for an university project. 
 
 <h1>Facts about me</h1>
 
 - 📊 I started working with **Data** inside of a *Revenue Operations* team
 - 🐯 I love cats (including the big ones) and I have a kitten named Yalung;
-- 🤔 I can't smell;
-- 🐉 I am extremely passionate about asian culture
-- 🤠 I am really ecletic but lately I've been listening to a lot of folk and country music. Howdy!
+- 🤝 With that RevOps team, I learned that getting closer business side and the client needs is amazing. I always consider and look for that, even with my function being mostly technical;
 - 🔒 When I was 14, I was passionate about hacking and InfoSec;
 - 🥊 I'm also passionate about Parkour and martial arts. My last one was **Muay Thai**.
 
